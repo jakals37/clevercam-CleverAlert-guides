@@ -14,7 +14,7 @@
 - **Codec:** H.264 only  
 - **FPS:** 6–10 (default 8)  
 - **I-frame interval:** 2 s (e.g. 20 frames @10 FPS)  
-- **Bitrate:** 500–1000 kbps VBR  
+- **Bitrate:** 500–1000 kbps CBR  
 - **Audio:** off unless live-view support needed  
 
 ## 3. Network & Protocol  
