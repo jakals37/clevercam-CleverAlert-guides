@@ -1,0 +1,1 @@
+# clevercam-CleverAlert-guides
